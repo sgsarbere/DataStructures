@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.0.31919.166
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1300
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures", "DataStructures.csproj", "{61669E09-DCE1-4B26-85AC-C926CF8C644D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataStructures", "DataStructures.csproj", "{61669E09-DCE1-4B26-85AC-C926CF8C644D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LowLevelDesigns", "..\LowLevelDesigns\LowLevelDesigns\LowLevelDesigns.csproj", "{07C8004D-B54C-4F50-AFFA-F4FD6C564BF9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{61669E09-DCE1-4B26-85AC-C926CF8C644D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61669E09-DCE1-4B26-85AC-C926CF8C644D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61669E09-DCE1-4B26-85AC-C926CF8C644D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07C8004D-B54C-4F50-AFFA-F4FD6C564BF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07C8004D-B54C-4F50-AFFA-F4FD6C564BF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07C8004D-B54C-4F50-AFFA-F4FD6C564BF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07C8004D-B54C-4F50-AFFA-F4FD6C564BF9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
